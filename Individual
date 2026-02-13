@@ -1,1 +1,20 @@
-Individual Contribution
+## Individual Contribution to Churn Case 
+- very code heavy
+
+Feature Engineering 
+- created aggregate variables such as ratio of extra fees to total billed and tenure buckets
+
+Modeling
+- helped choose which models would be best for prediction churn as well as providing a baseline 
+- Helped tune modeling process by changing hyperparameters 
+- Created a class weighting system to increase the penalty for mistakes on minority class (Customers who Churn)
+
+## Decision Making
+- Advocated for a class weighting system as our data was imbalenced from churners to non churners as well as keeping the stratified test train set 
+- Pushed for trying different tunning parameters of all models to increase Test ROC to compare models fairly
+
+## Lessons Learned
+1. Coding seperately without a shared data base can often cause confusion. Communication was not always the best on this project and it was not clear and obvious what sections people were working on and what changes had been made. Working on a shared data base can help to solve this problem and better communication is required especially on projects such as these. This can help avoid working on the same problems, saving time, and getting data that is conflicting.
+2. If more time was avaliable I would have narrowed down the variables for K-means clustering and picked the top customers that were most at risk by a cutoff before running the clustering. This would have allowed the group to see which variables differed between the clusters of only the ones that were atrisk of churning.
+
+
