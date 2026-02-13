@@ -16,5 +16,3 @@ Modeling
 ## Lessons Learned
 1. Coding seperately without a shared data base can often cause confusion. Communication was not always the best on this project and it was not clear and obvious what sections people were working on and what changes had been made. Working on a shared data base can help to solve this problem and better communication is required especially on projects such as these. This can help avoid working on the same problems, saving time, and getting data that is conflicting.
 2. If more time was avaliable I would have narrowed down the variables for K-means clustering and picked the top customers that were most at risk by a cutoff before running the clustering. This would have allowed the group to see which variables differed between the clusters of only the ones that were atrisk of churning.
-
-
