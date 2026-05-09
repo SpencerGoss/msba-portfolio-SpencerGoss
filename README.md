@@ -1,5 +1,5 @@
 # msba-portfolio-SpencerGoss
-This is a portfolio of a case project that was completed in the MSBA program at the University of Louisville
+This is a portfolio of a case project that was completed in the MSBA program at the University of Louisville.
 We were given a customer data set consisting of 5636 rows of which contains demographics and behavioral charataristics of the customers such as type of service.
 We were asked to use this data to make a predictive model to identify churn risk as well as identify key factors that could be influencing this churn and thus give data driven recomendations
 
